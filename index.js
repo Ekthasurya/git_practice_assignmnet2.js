@@ -6,9 +6,9 @@ for(var i =1;i<=13;i++){
     }
 }
 
-if(count !== 2){
+if(count === 2){
     console.log("it is prime number");
 }
 else{
-    console.("it is not prime number");
+    console.log("it is not prime number");
 }
